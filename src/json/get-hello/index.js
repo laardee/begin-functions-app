@@ -1,7 +1,7 @@
-let begin = require('@architect/functions')
+const begin = require('@architect/functions')
 
 // TODO change defaultJSON
-let defaultJSON = {
+const defaultJSON = {
   ok: true
 }
 
